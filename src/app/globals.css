@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #FBF5FD;
+}
+.achieve{
+background: linear-gradient(180deg, #9C79B3 48.52%, #8A61A5 75.96%);
+
+}
+.inlay-circle {
+    width: 22.5rem;
+    height: 22.5rem;
+    border: solid #EDCAFE 4px;
+    border-radius: 50%;
+}
+
+.inlay-circle::after {
+    margin-left: -2px;
+    margin-top: -2px;
+    position: absolute;
+    content: '';
+    width: 22.5rem;
+    height: 22.5rem;
+    border: solid transparent 4px;
+    border-right: solid #8708C2 4px;
+    border-radius: 50%;
+    transform: rotate(20deg);
+
+}
+
+.inlay-circle::before {
+    margin-left: -2px;
+    margin-top: -2px;
+    position: absolute;
+    content: '';
+    width: 22.5rem;
+    height: 22.5rem;
+    border: solid transparent 4px;
+    border-left: solid #8708C2 4px;
+    border-radius: 50%;
+    transform: rotate(10deg);
+}
