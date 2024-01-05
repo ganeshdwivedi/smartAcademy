@@ -14,6 +14,8 @@ background: linear-gradient(180deg, #9C79B3 48.52%, #8A61A5 75.96%);
     height: 22.5rem;
     border: solid #EDCAFE 4px;
     border-radius: 50%;
+    position: absolute;
+    left: -3%;
 }
 
 .inlay-circle::after {
@@ -41,4 +43,40 @@ background: linear-gradient(180deg, #9C79B3 48.52%, #8A61A5 75.96%);
     border-left: solid #8708C2 4px;
     border-radius: 50%;
     transform: rotate(10deg);
+}
+@media screen and (max-width:425px) {
+    .inlay-circle {
+            width: 17rem;
+            height: 17rem;
+            border: solid #EDCAFE 4px;
+            border-radius: 50%;
+            left: 0;
+        }
+    
+        .inlay-circle::after {
+            margin-left: -2px;
+            margin-top: -2px;
+            position: absolute;
+            content: '';
+            width: 17rem;
+            height: 17rem;
+            border: solid transparent 4px;
+            border-right: solid #8708C2 4px;
+            border-radius: 50%;
+            transform: rotate(20deg);
+    
+        }
+    
+        .inlay-circle::before {
+            margin-left: -2px;
+            margin-top: -2px;
+            position: absolute;
+            content: '';
+            width: 17rem;
+            height: 17rem;
+            border: solid transparent 4px;
+            border-left: solid #8708C2 4px;
+            border-radius: 50%;
+            transform: rotate(10deg);
+        }
 }

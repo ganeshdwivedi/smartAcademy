@@ -5,16 +5,16 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 import InstagramIcon from '@mui/icons-material/Instagram';
 
 const Footer = () => {
-    const footerlink = "text-xs text-[#43595C] my-2"
+    const footerlink = "text-[10px] lg:text-xs text-[#43595C] my-1 md:my-2"
     return (
-        <footer className='flex bg-white flex-col px-32 py-5'>
-            <div className='flex flex-row justify-around my-5'> <div>
+        <footer className='flex bg-white flex-col px-[30px] xl:px-[155px] py-5'>
+            <div className='flex flex-col md:flex-row justify-between my-5'> <div>
                 <Logo />
                 <h3 className='text-xs'>Learn from the best instructors<br />
                     to gain insights, master skills,<br />
                     and excel in your endeavors.</h3>
             </div>
-                <div>
+                <div className='md:my-0 my-3 '>
                     <h3 className='text-[#43595C] font-bold text-xs mb-4'>
                         Products
                     </h3>
@@ -27,7 +27,7 @@ const Footer = () => {
                         <li className={footerlink}>Amazon.com gift cards</li>
                     </ul>
                 </div>
-                <div>
+                <div className='md:my-0 my-3 '>
                     <h3 className='text-[#43595C] font-bold text-sm mb-4'>
                         Solutions
                     </h3>
@@ -40,7 +40,7 @@ const Footer = () => {
                         <li className={footerlink}>For market reaerchers</li>
                     </ul>
                 </div>
-                <div>
+                <div className='md:my-0 my-3 '>
                     <h3 className='text-[#43595C] font-bold text-sm mb-4'>
                         Resources
                     </h3>
@@ -51,7 +51,7 @@ const Footer = () => {
                         <li className={footerlink}>Help Center</li>
                     </ul>
                 </div>
-                <div>
+                <div className='md:my-0 my-3 '>
                     <h3 className='text-[#43595C] font-bold text-sm mb-4'>
                         Developers
                     </h3>
@@ -61,7 +61,7 @@ const Footer = () => {
                         <li className={footerlink}>Documentation</li>
                     </ul>
                 </div>
-                <div>
+                <div className='md:my-0 my-3 '>
                     <h3 className='text-[#43595C] font-bold text-sm mb-4'>
                         Company
                     </h3>
@@ -75,14 +75,14 @@ const Footer = () => {
                 </div>
             </div>
             <hr className='w-full' />
-            <div className='flex flex-row text-xs my-5 justify-between'>
-                <div className='flex flex-row gap-5 text-[#43595C] font-bold'>
+            <div className='flex flex-col md:flex-row text-xs my-5 justify-between'>
+                <div className='flex flex-col md:flex-row gap-2 md:gap-5 text-[#43595C] font-bold'>
                     <p className='font-normal'>© 2023 smartacademy.Ltd.</p>
                     <p>Terms</p>
                     <p>Privacy</p>
                     <p>Security</p>
                     <p>Cookies</p></div>
-                <div className='flex flex-row gap-5'>
+                <div className='flex flex-row my-2 gap-10 md:gap-5'>
                     <YouTubeIcon fontSize='small' />
                     <FacebookIcon fontSize='small' />
                     <InstagramIcon fontSize='small' />

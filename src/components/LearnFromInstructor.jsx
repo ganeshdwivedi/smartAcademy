@@ -3,10 +3,13 @@ import InstructorCard from './InstructorCard';
 
 const LearnFromInstructor = () => {
     return (
-        <div className='bg-[#1C1C1C] p-10 lg:py-10 lg:px-36'>
-            <h3 className='capitalize font-bold text-xl my-2 text-white'>Learn from the best instructors</h3>
-            <p className='text-sm text-white'>Learn From the best instructors to gain insight,Master skills, and excel in your endeavors. Their<br /> expertise accelerates your progress.</p>
-            <div className='my-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 lg:gap-28 gap-10'>
+        <div className='bg-[#1C1C1C] py-[30px] lg:py-[70px] lg:items-start flex flex-col px-[30px] xl:px-[155px]'>
+            <div>
+                <h3 className='capitalize font-bold text-base lg:text-[24px] my-2 text-white'>Learn from the best instructors</h3>
+                <p className='lg:text-[15px] leading-6 text-xs text-white'>Learn From the best instructors to gain insight,Master skills, and excel in your endeavors. Their<br className='lg:block hidden' /> expertise accelerates your progress.</p>
+
+            </div>
+            <div className='my-10 grid grid-cols-2 xl:gap-x-[35px] lg:grid-cols-4 lg:gap-x-[40px] md:gap-x-[20vw] gap-[30px] md:gap-y-[40px]'>
 
                 <InstructorCard imgsrc={"https://s3-alpha-sig.figma.com/img/8411/e6b6/1327ef247d9dda4903c822609cec97fe?Expires=1705276800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=iMMlj-yeb6~l1QGj4gaH-qIoacfAXzmRypeCU2DYe7ArRTF7GO66gQNDXX54r5t2~wEc9x~pT5lCFtRukx4JMX1gLCaBf5qU8mHnpvOHSvCeruRZGnpI41EdYYG16g9GlTfPV-tIZJEtYnD0XN7J-oD~IXuL6Rvji8ZSjeeqTHGlpsZ7xYIfaclNoQHWe~ZPQeIZETk1RSWHXf~qDjtYLKV95-zULQiA2j55yaU5kTQSh4MzV2DsEf9aylvpw8-OL2Qi6BKlV81sDO8CciJLL6r1A6ZWpaPtarHr87zNL8orSF9SmGrr~Ub-vhCkSYVUJmFxA3LYnseQe7FpQSdjfw__"} text={"Michale"} />
                 <InstructorCard imgsrc={"https://s3-alpha-sig.figma.com/img/9db4/b2b6/457ae2406243110e78013611127dc4b6?Expires=1705276800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ScVpwrPIQXBjQRf~~fEQeF7ATFseR7eHljDJVnnyXRgjM~HiCig2Z3KUa66xuE4zaI8HMaZrqHo2ZqBp~lOF4l4ZOhXI6pzLN3a2tJR6ahpVszHzuTwqohaY4eN2v2C-tRd975Qy5OKo0AcIZmocBtR1SIHcOZFVfr5xoMnqIBopcLOO5NjjG2~W19XAFJG~PImeMm4YHemHC7SyaaAF8sNmTZzhUHUcUNbXSjvi3ilTf3vkHs0HxaGq53mPXRKZgk1MDoGKJ7adryfR6tdpP2lctdkXqqnhbyEb-IDhn7BGTtb8ulGFhpdIZVyPF2bfWOc6eoDOv-IduJKwZ43U7Q__"} text={"Tony Danza"} />
