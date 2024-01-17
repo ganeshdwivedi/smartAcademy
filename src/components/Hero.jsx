@@ -45,7 +45,7 @@ const Hero = () => {
 
                         <div className='w-[250px] h-[250px] md:w-[320px] md:h-[320px] rounded-full overflow-hidden'>
 
-                            <img className='object-cover w-full h-full  overflow-hidden' src='https://s3-alpha-sig.figma.com/img/57f8/9f32/b52db02e21bf60c65ea5e4ec90214985?Expires=1705276800&Signature=ng1V8FuCBJzKJ1UECJxFEV9DTj2uGkYWiW~P9jBEK-5LxlPE~-Z1zR-KYwO7QCtGnOGwjopdYmBtcqYSUHxlKMBdbdutIaLlCutWkAcjaxVBHQ4Jk-YC6WUHqjww6Vk4ow9mjFT25CAwA71ynu67HryS8AS1xNYxJTKO~VAwjeHjE8WtLUE5wnJimhszv60FEvCqKSFsEekF1TpL2nO8D63LL5olBW0iv2wQgCaXVrexO5x4VhQZAoBnHx5DB~2lX4UYWdiLKb0crJupVmYPqvfN0V480mz1nrR7LZJT5F-5UCK0SErFux7CtDguTtllsRnPDy6RYThRXEJqRJz6aA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4' />
+                            <img className='object-cover w-full h-full  overflow-hidden' src='https://smarter-set.com/wp-content/uploads/2023/12/Enhancing-Healthcare-Efficiency-The-Role-of-Natural-Language-Processing-in.jpg' />
 
                         </div>
                         <div className="inlay-circle absolute top-0 left-10 md:-top-2 "></div>
