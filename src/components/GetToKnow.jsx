@@ -67,33 +67,33 @@ const GetToKnow = () => {
                     <RobotSvg className={"md:bottom-[18rem] md:-left-10 lg:left-0 -top-14 -left-10"} />
                     <div className='flex flex-col gap-2 relative'>
                         <div className='w-[25vw] md:w-[140px] md:h-[120px]'>
-                            <img className='w-full object-cover h-full rounded-tl-2xl' src='https://s3-alpha-sig.figma.com/img/fccd/a898/ceac30884b5f3eb0013461babc1a145b?Expires=1705276800&Signature=CZvLXlkK2MH9YR7fXE8dZTw6GX0iVEuyjBauHKDB5r98z6SzwDyWI2p~Qh2q2N5aQ8KkXwoWL1exejb4ZUn0UyhydiLAIgRyjcPV3Cjw01DwTKwvA-pejsI1wivxADGVGYg5L5ttKDeQeF38yKqAZWJhU6~w32-nyOZV3K4wCLCTF1xB5gb7IfPZuiOy~EtcrJG4FVrjGIyS6gLl8mYXrVbTRbM7ofFb6Jnzb0B95ie2cMbyDJAjtiaYlvCgTaKc9hFUEPDMazzGoMTToz4cFoomoD7S80eVcf5m0ZJaP2dd~iP-Z3ET545ED2MBl-xg6T95nzzSMJP57CbNFSMscA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4' alt='' />
+                            <img className='w-full object-cover h-full rounded-tl-2xl' src='https://www.ecomatrixesg.com/cep-institute_files/61ebc48a8c88d264d2e42edc_training-img.jpg' alt='' />
                         </div>
                         <div className=' w-[25vw] h-[25vw] md:w-[145px] md:h-[145px]'>
-                            <img className='w-full h-full object-cover' src='https://s3-alpha-sig.figma.com/img/112d/73d0/272e9024592a3457e0d6d2f267b6aba5?Expires=1705276800&Signature=OD4fRwfSK4Rk3HOo1ggJCLFGeJzZ0s71L11otGh95AvOdQFf8HeHTFZ5ErKHKJynsCMusbH4a90Zc5D7njy7fYORGZnu6XMvzHnezRgN5034oH7o04g-VGpz6~077m~svxOJLOMIiXc68~~LnZvPRSn54AwB5IY-74G0FfvKK4-Er6MVj1bBxzfujL10VsO6AxFgPgxklbIdML3xK6VoS~QLXkD13zFK5~SvRAGPn6NCA0HsNu0L5ACGXFTX0CV6TDrXx8H~KFQ2N6ALautNeKL3PpxJrRSJXOYbZTa45Qdpe-GLlSNF67O~7wXHWGKeI-59IYH3T9qj-iTqNOg62g__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4' />
+                            <img className='w-full h-full object-cover' src='https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/12632797/36a3cb28a9ebc08e4e01de5e307aa310535d4d27.gif' />
                         </div>
-                        <div className='w-[50vw] h-[25vw] md:w-[300px] md:h-[90px]'> <img className='w-full h-full rounded-bl-2xl object-top object-cover' src="https://s3-alpha-sig.figma.com/img/ffc1/62d0/8c470285ac8081f7f560b825b1bf3523?Expires=1705276800&Signature=LuZSAdICTOoGPlI-bH-BEz~vWc6X35OZihiExheF1XkEtRG2EC1PAlKPUWOVWAe7SLf81BhCqJILxW9o7wsLKnBbCxYi6MGK9Bi4-YtMtmjPAsB6PrzPwPQsRibcMW6KxhQxrc4rUROkU1CsLYt1DWN4IJGr~nMoPo-PwJ9PQMeWo3oNuwhJMgUyeQrFEEPZbMAoO6vjuKWULy4eGKlkQRyeYvVvVWrwKeq~3oqNhJ9LqKgBSprEC3GUt64PmPHZAyUmihp6w0u91sEVI6Zvl02nr0bDpXwebaBvgureMOfC5-FSE~pf6pOuMyTlMV49fy75H-Ro5ygJMq37czgG1w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" /></div>
+                        <div className='w-[50vw] h-[25vw] md:w-[300px] md:h-[90px]'> <img className='w-full h-full rounded-bl-2xl object-top object-cover' src="https://optocrypto.com/wp-content/uploads/2018/03/gear-vr-4D.jpg" /></div>
 
                     </div>
                     <div className='flex flex-col gap-2 absolute left-[34.5%] md:left-[9.5rem]'>
                         <div className='w-[24vw] md:w-[150px] md:h-[90px]'>
-                            <img className='w-40 h-full' src='https://s3-alpha-sig.figma.com/img/44e1/840a/b838d6aaa964344bbdb36de58086c409?Expires=1705276800&Signature=N98~84GsP~QZYf9duMe~gN9PER1FWj0XdL5QqcIIakiTBuxpkwvTjdaLe2Wke8CAfk7wAAkgnNc1DWR2EN9P-hIg~5cIXdyB1KgRlpzAj2Xesx7LQUB2spT9hYQS3l38L06y0TS~C9wvNIToCM-4lr26AkWDIKkZ6M-cV3~aZkj2eYeilEajxzNO-7aoRVA5IE3U4KbBB48aZ8p1WYbC9RrhVffwaKL4zKsE-BDAb3yq-RpPEuPF~U5bGdNA22gRei1PtLMtv3q1lTO6CumVcYZ9zjeWkxVqlVzepqsBRF1Fy4TiMzTyzx1M29hHeOWLjrmq0WQxfs5QzJksBXatcw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4' alt='' />
+                            <img className='w-40 h-full' src='https://miro.medium.com/v2/resize:fit:720/format:webp/1*An4d5dB66hCW5yjOqm_lQA.jpeg' alt='' />
                         </div>
                         <div className='w-[24vw] h-[28vw] md:w-[150px] md:h-[175px]'>
-                            <img className='w-full object-cover h-full' src='https://s3-alpha-sig.figma.com/img/7e8b/33ff/4705729706901cb8f065a4b1b942b465?Expires=1705276800&Signature=lM1fcz2F2Vz~18otyuZchZX6SFF~OOCKUb0eBzXigdfoWPVEq3IJkHS1zO2UrQT8IW~hNN6Stpu~GfOxTi6Sq-pBbJjVwIlxN09MeFM0H3T9M2V-gZFOfjX3Lp6nsV~0ihgyqSfeerFIn70yw9SoSpmPuEB26457biBbq7piQgciDbQG8xQQpJDItQae26dHOKBlo1VwPotGR9JiEismtm2~O6e4pNjW6m1HgOYR9JULUnhWdbCeB5FOyHUKJ1O1XRT3hAplVxSfMaeisjracSqfBuc-6lgpHsx1Dku-Kbqa~qEGILLmr~RUFPbJjQRRgUYCNU8ewmhHQYHy3H7sXA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4' alt='' />
+                            <img className='w-full object-cover h-full' src='https://cdn01.alison-static.net/courses/5593/alison_courseware_intro_5593.jpg' alt='' />
                         </div>
 
                     </div>
 
                     <div className='flex flex-col gap-2'>
                         <div className='w-[25vw] md:w-[115px] md:h-[110px]'>
-                            <img className='w-full h-full object-cover rounded-tr-2xl' src='https://s3-alpha-sig.figma.com/img/b697/b6d4/1aaedcff16d275abf20178007a3c2f36?Expires=1705276800&Signature=hMTWdnYXGi0jl~QH3oDBMcQ5ZvZBMm5wFbLiNrXzQPNj0qFCWtyDpucJyEJ9hkpfUOf5s5BKuOnUo5ijEjPeq~fAjxtaGIZbR7A~q52-kz3fCqtDbh3BOmLemcFjD8yYXTEyKJpaEVgi0dTwzxvEwk4pY03mlFZIWKiMbxMbg4wHD3d7xmtruDMbNwqrJOOexm8mp8MSmaME-7OUmwGOgtR4mSPMtnRsfd-FiEUWuP9H~UKCVXddZWhudT4Fl9yDFsWMF5a5V5-uJh3RY3ul0peTiXYY~b6zLjczrS3oM4RolRzow0MYIYsW8jovZRfFj9JtW~vA48Nm8xRTIAtPJg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4' alt='' />
+                            <img className='w-full h-full object-cover rounded-tr-2xl' src='https://www.drink-it.com/Admin/Public/GetImage.ashx?Image=/Files/Images/NORRIQ_BE/blog/ALBlog.jpg&Width=1340&Crop=5&Compression=90' alt='' />
                         </div>
                         <div className=' w-[25vw] h-[36vw] md:w-[115px] md:h-[155px]'>
-                            <img className='w-full object-cover h-full' src='https://s3-alpha-sig.figma.com/img/627f/54df/a419f3c6a7aa206c8069a48165fa83df?Expires=1705276800&Signature=no3i9rSTMMCSGgd~ISX7hJSSaU63FjA9yVVMDtrpd81SQgY6Efu3w9cPHuHQo0CwMwkKTknlqz47cS8Ay8qU-R7CTYRYwn~tVESFWpy0P2GtlxzpdyAgL7e8z2F0mCcs6veBVGnaNGxkrXaCjkizkefrA7mcYI2wYa~a9rDSZAlcDao8-BdhkuhZcA9Qc2kaDycRk8J2KJuuaCmYWlm4gD01V14glQa4BTLB-hVpN3AGIrEfgX~eMlej6S~00oN3tBlJ-Ak4AJDemjZsnWqzAKVJOZZTVEDkIHoCcF-FBAGmqAf091FxKNcwjj2VWW94HcnhRZ5prPSjefFQLWnIaQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4' alt='' />
+                            <img className='w-full object-cover h-full' src='https://digital-preacher.com/wp-content/uploads/2023/01/man-wearing-vr-glasses-with-blue-purple-light-1022x1536.jpg.webp' alt='' />
                         </div>
                         <div className=' w-[25vw] md:w-[115px] md:h-[90px]'>
-                            <img className='object-cover rounded-br-2xl  w-full h-full' src="https://s3-alpha-sig.figma.com/img/9b47/073d/6c7c6ea3b5fc9098616de81cf55347fd?Expires=1705276800&Signature=aj0qET7wbnP3MAQzkLR2sY7RQEIHbkrANLP2-aJj~P2EbBXh2VWh9DZNPPQo7c2YR~F70P9y-g05qdZtSBaK1NzPWtQZk3EQolsmXZ5htoxy8O7908v9W5zileoPUDpk0RCaRjvX0a-~Otu6sGcJIKjkaWdwaHHcfwbrKUOzyD5jBJQqh~iNTHQBPWFh5zH5qQrLxd~fSjH46KBunAzkL1V4L7NEywDXoZCcu-Gzrfiz~dDEgl1SdvlIGcb9-0dx4~Tfz~0pRLYHnVIuiK~Ui77UZ9sU97FxfQJdVdbl7DNVl9~H0nuGc28b7PE-3YQC6wKNu4EtGLU4Z-Tj5lSBtQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" />
+                            <img className='object-cover rounded-br-2xl  w-full h-full' src="https://i.pinimg.com/originals/ab/52/69/ab526924acfa42edad1c62ead07dae96.gif" />
                         </div>
                     </div>
                     <RectangleSvg className={"-bottom-10 -right-32"} />
