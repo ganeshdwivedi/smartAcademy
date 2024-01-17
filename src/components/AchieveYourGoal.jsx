@@ -23,7 +23,7 @@ const AchieveYourGoal = () => {
                 </div>
 
                 <Slide direction='right' className='md:right-0 md:w-[350px] md:h-[280px] lg:w-[420px] lg:h-[250px] lg:mr-[80px] w-full h-full static md:absolute right-20 overflow-hidden'>
-                    <img className='object-cover scale-125 w-full h-full' src="https://s3-alpha-sig.figma.com/img/10e6/c3a2/5f176190c0fb5eee418376914b148a0a?Expires=1705276800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QIF6uFkNVNav-fBpRJbKTRuTm5oIKlyPhxwBriv73tk473cH3i8jlmD8lJab-uQ~rye-oHKvRdrDKFWNyQR432MNNd52rf~0QaR0E2zl1nGe5~D5ppAzlu2aRRj8PBnDUtpVDJKCf6UA9xZ7nApNdmw~5bYMN85H~DZFYsRMczxeC5AtOy-UCOk6vGdwy1g9CucstiC2DlNW6gOl9Hks72ZNnPKwRUMdlWhYOCyQ4kOJXf1mXwmZtVyXBLnTtgQJZR~cm-J9e0O6~TxYEViW7ohWULgnP~OGlThZhurKo15jrH9bhYQPy-lvZuoiJxDc-4t4Ibqso-f1C5pQW-sJTw__" alt="" />
+                    <img className='object-cover scale-125 w-full h-full' src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*H8yObZQrXeVOMv3RE41Hiw.jpeg" alt="" />
                 </Slide>
             </div>
             <div className='h-[43px] w-full md:block hidden bg-[#9C79B3]'></div>
